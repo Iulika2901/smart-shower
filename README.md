@@ -38,6 +38,7 @@ Shower Temperature Control
 <p>Here are some images related to shower temperature control:</p>
 
 <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fdigitalrepository.unm.edu%2Fcgi%2Fviewcontent.cgi%3Farticle%3D1513%26context%3Dmath_fsp&psig=AOvVaw3gdJIjyC0w2U83iliq5hpy&ust=1712429830183000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj0j7Dgq4UDFQAAAAAdAAAAABAI" alt="Shower Control- Temerature Graphic" width="400">
+<img src="https://t4.ftcdn.net/jpg/05/65/52/61/360_F_565526112_dfCgD9rs0hEH2N0pNBp5Y0cyhTeLWaxT.jpg" alt="Save water, use this water saver app" width="400">
 
 </body>
 </html>
