@@ -35,7 +35,7 @@ Shower Temperature Control
 
 <h2>Images</h2>
 
-<p>Here are some images related to shower temperature control:</p>
+<p>Save water, use code of shower temperature control:</p>
 
 
 <img src="https://t4.ftcdn.net/jpg/05/65/52/61/360_F_565526112_dfCgD9rs0hEH2N0pNBp5Y0cyhTeLWaxT.jpg" alt="Save water, use this water saver app" width="400">
