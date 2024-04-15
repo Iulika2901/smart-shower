@@ -1,3 +1,38 @@
+class Shower:
+  water=True
+  def __init__(self, mode,temp): 
+      self._mode=mode
+      self.temp=temp
+  def run(self):
+    print('run on {self.mode} mode')
+  @classmethod
+  def colorlight(cls, color1):
+    return cls(color1,'rain')
+
+class Boobles(Shower):
+    def __init__(self, mode, temp, color):
+        super().__init__(mode, temp)
+        if mode == 'massage':
+            self.boobles = True
+        else:
+            self.boobles = False
+
+mode = input("Enter shower mode: ")
+while mode != 'rain' and mode != 'massage':
+    mode = input("Enter shower mode: ")
+print('starting shower')
+shower1 = Shower(mode, 31)
+shower1.run()
+shower1.colorlight('rain').run()
+boobles1 = Boobles('rain', 31, 'red')
+print(boobles1.colorlight('rain').run())
+print(isinstance(boobles1,Shower))
+
+
+
+#setting shower temperature
+
+
 temp_target = int(input("Enter the target temperature: "))
 temp_init = int(input("Enter the initial temperature: "))
 time_shower = int(input("Enter the shower time (in minutes): "))
@@ -9,7 +44,7 @@ while time_shower != 0 and stop != 0:
     epsilon = pow(10, -1)
 
     print("Shower starting...")
-
+    shower1.temp=temp_obt
     for i in range(time_shower_sec):
         media = abs(temp_obt - temp_target) / 2
         if temp_obt < temp_target:
@@ -33,5 +68,10 @@ while time_shower != 0 and stop != 0:
 
     
     print("Final temperature:", temp_obt)
+    
     time_shower = int(input("Enter the shower time in minutes (or 0 to stop): "))
     stop = int(input("Press 0 to stop the shower: "))
+
+
+
+
