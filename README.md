@@ -18,6 +18,9 @@ No more fumbling with knobs and dials to find the perfect temperature. Our advan
 <li><h1>Dynamic Water Color</h1>
 Watch in awe as the water in your Smart Shower transforms before your eyes. With our innovative color-changing technology, the water adapts to your chosen mode, turning a soothing blue for rain showers and a vibrant red for invigorating massages.</li>
 
+<img src="https://images.app.goo.gl/ebWwcFQ22E4fJUun7" alt="Colorful design" width="400"
+
+
 <li><h1>Immersive Music Integration</h1>
 Turn your shower into a personal concert hall with the Smart Shower's built-in music player. Stream your favorite tunes directly from your smartphone or choose from our curated playlists. Let the music wash over you as you indulge in a truly indulgent bathing experience.</li>
 
